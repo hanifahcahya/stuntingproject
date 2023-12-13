@@ -1,0 +1,53 @@
+{
+    "articles": [
+      {
+        "author": "John Doe",
+        "date": "20 Nov 2022",
+        "title": "Introduction to React Hooks",
+        "description": "Learn how to use React Hooks to manage state and side effects in your React applications.",
+        "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      },
+      {
+        "author": "Jane Smith",
+        "date": "22 Nov 2022",
+        "title": "Responsive Web Design with CSS Grid",
+        "description": "Explore the power of CSS Grid to create responsive and flexible layouts for your websites.",
+        "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      },
+      {
+        "author": "Bob Johnson",
+        "date": "25 Nov 2022",
+        "title": "Getting Started with GraphQL",
+        "description": "An introduction to GraphQL and how it can simplify data fetching in your web applications.",
+        "imageUrl": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+      }
+    ],
+    "faqs": [
+      {
+        "id": "faq1",
+        "question": "What is React?",
+        "answer": "React is a JavaScript library for building user interfaces."
+      },
+      {
+        "id": "faq2",
+        "question": "How does React work?",
+        "answer": "React creates a virtual DOM, which is a lightweight copy of the real DOM. It updates only the changed parts of the DOM, making it efficient."
+      },
+      {
+        "id": "faq3",
+        "question": "What are React components?",
+        "answer": "React components are reusable, self-contained building blocks that encapsulate a piece of UI. They can be composed to build complex interfaces."
+      },
+      {
+        "id": "faq4",
+        "question": "How does React work?",
+        "answer": "React creates a virtual DOM, which is a lightweight copy of the real DOM. It updates only the changed parts of the DOM, making it efficient."
+      },
+      {
+        "id": "faq5",
+        "question": "What are React components?",
+        "answer": "React components are reusable, self-contained building blocks that encapsulate a piece of UI. They can be composed to build complex interfaces."
+      }
+    ]
+  }
+  
